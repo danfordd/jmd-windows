@@ -1,3 +1,7 @@
+## License
+
+This project is licensed under the [GNU GPL v3](./LICENSE).
+
 <h1 align="center">JMD — Java Manipulations Detector</h1>
 <p align="center">
     <b>A lightweight CLI tool for detecting Java process <code>JVMTI</code>/<code>JNI</code> injections on Windows</b><br>
